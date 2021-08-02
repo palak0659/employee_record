@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EmployeeRecords</string>
+    <string name="first_name">First_Name</string>
+    <string name="last_name">Last_Name</string>
+    <string name="age">Age</string>
+    <string name="post">Post</string>
+    <string name="querry">Do you have any problem with company?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="save">Save</string>
+    <string name="load">Refresh</string>
+    <string name="clear">Clear</string>
+</resources>
